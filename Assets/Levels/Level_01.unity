@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd8a6ee7bdf81fd408093b2d9606cf84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Enemy: {fileID: 100000, guid: ff73a7a7b7d4f72499f67170665eefea, type: 2}
+  Enemy: {fileID: 100196, guid: e68b1e68de72cbe41b1fef0a4664987e, type: 2}
   spawnRangeX: 30
   spawnRangeY: 30
   spawnPointZ: 200
